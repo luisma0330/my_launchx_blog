@@ -1,5 +1,5 @@
 ---
-title: "Launch X -Una aventura fuera de este mundo"
+title: "Launch X - Una aventura fuera de este mundo"
 date: 2022-04-07
 description: 'Un poco sobre mi aventura en Launch-X de innovacción Virtual'
 ---
